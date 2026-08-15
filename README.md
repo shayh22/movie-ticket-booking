@@ -2,6 +2,8 @@
 
 This project is a Spring Boot-based RESTful API for managing movie tickets, including users, movies, showtimes, and ticket bookings.
 
+> **Also in this repo:** `index.html` — a standalone Hebrew gift-amount calculator ("כמה לתת במתנה?") served via GitHub Pages. See [README-gift-calculator.md](README-gift-calculator.md). It is unrelated to the API and has no build step.
+
 ## Features
 
 - User authentication and role-based access control (Admin, Customer)
